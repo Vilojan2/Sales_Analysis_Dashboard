@@ -34,5 +34,3 @@ This project analyzes sales data to uncover trends, identify top-performing prod
 - **GitHub**: For version control and project sharing.
 
 ---
-
-## Project Structure
