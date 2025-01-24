@@ -34,3 +34,10 @@ This project analyzes sales data to uncover trends, identify top-performing prod
 - **GitHub**: For version control and project sharing.
 
 ---
+## Author
+**Vilojan Mahalingam**
+
+- LinkedIn: [Vilojan Mahalingam](https://linkedin.com/in/vilojan-mahalingam)
+- GitHub: [Vilojan's GitHub](https://github.com/Vilojan2)
+
+
